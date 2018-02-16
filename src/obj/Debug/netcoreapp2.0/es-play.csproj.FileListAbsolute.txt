@@ -1,0 +1,10 @@
+/home/terkel/projects/monsenso/es-play/src/obj/Debug/netcoreapp2.0/es-play.csproj.CoreCompileInputs.cache
+/home/terkel/projects/monsenso/es-play/src/obj/Debug/netcoreapp2.0/es-play.AssemblyInfoInputs.cache
+/home/terkel/projects/monsenso/es-play/src/obj/Debug/netcoreapp2.0/es-play.AssemblyInfo.cs
+/home/terkel/projects/monsenso/es-play/src/obj/Debug/netcoreapp2.0/es-play.dll
+/home/terkel/projects/monsenso/es-play/src/obj/Debug/netcoreapp2.0/es-play.pdb
+/home/terkel/projects/monsenso/es-play/src/bin/Debug/netcoreapp2.0/es-play.deps.json
+/home/terkel/projects/monsenso/es-play/src/bin/Debug/netcoreapp2.0/es-play.runtimeconfig.json
+/home/terkel/projects/monsenso/es-play/src/bin/Debug/netcoreapp2.0/es-play.runtimeconfig.dev.json
+/home/terkel/projects/monsenso/es-play/src/bin/Debug/netcoreapp2.0/es-play.dll
+/home/terkel/projects/monsenso/es-play/src/bin/Debug/netcoreapp2.0/es-play.pdb
